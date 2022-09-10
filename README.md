@@ -1,5 +1,7 @@
 # readability.c
 ref: https://cs50.harvard.edu/x/2022/psets/2/readability/
+
+
 "
 According to Scholastic, E.B. White’s Charlotte’s Web is between a second- and fourth-grade reading level, and Lois Lowry’s The Giver is between an eighth- and twelfth-grade reading level. What does it mean, though, for a book to be at a particular reading level?
 
